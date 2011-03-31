@@ -1,4 +1,4 @@
-rails
+rails --version 2.3.5
 radiant
 RedCloth
-will_paginate
+will_paginate --version '~> 2.3.11'
